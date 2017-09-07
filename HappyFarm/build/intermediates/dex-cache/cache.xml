@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\GIT\HappyFarm\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="85d1bebda28ed93b22596aaa2dc37b9376f956c4">
+        <dex dex="F:\GIT\HappyFarm\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_82fffbd7a97405a2203caecac57e9e9cf1965eb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GIT\HappyFarm\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\GIT\HappyFarm\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_61846679d93cdf41374c6ec52e6fa497c8694c6e\classes.dex" />
+    </item>
+
+</items>
